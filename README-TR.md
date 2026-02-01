@@ -1,5 +1,5 @@
 # T-TARAYICI
-Proje %60 tamamlandı
+Proje %60 tamamlandı.
 
 GİZLİLİK ODAKLI ÇALIŞIR
 
